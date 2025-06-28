@@ -1,6 +1,6 @@
 # Wi-Fi_Password_Grabber_vbs_C2
 
-## :warning: This script is provided for responsible educational use. The author does not condone or support its use in unethical or illegal activities.
+## :warning: This script is provided for responsible educational use. The author does not condone or support its use in unethical or illegal activities. :warning:
 
 This script is a wifi stealer that sends every wifi passwords stored on a Windows 10/11 computer to a [discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 
