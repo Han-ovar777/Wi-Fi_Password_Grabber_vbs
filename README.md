@@ -21,14 +21,6 @@ This script is a wifi password Grabber that fetched the wifi-profiles of every w
 
 # Usage
 Replace `"ENTER YOUR DISCORD WEBHOOK URL">` with your own [webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
-### Powershell
-```powershell
-powershell -ExecutionPolicy Bypass -File Wifi-Stealer-Discord.ps1
-```
-### Flipper Zero
-1. Copy the .txt files to the Flipper Zero in the `badusb` folder, directly to the microSD card or using the [Flipper Zero app](https://docs.flipperzero.one/mobile-app) *(Android/iOS)* or [qFlipper](https://docs.flipperzero.one/qflipper) *(Windows/Linux/MacOS)*
-2. Plug the Flipper Zero to the target computer
-3. Run the script from the Flipper Zero in the `Bad USB` menu
 
 # Result
 ![image](https://user-images.githubusercontent.com/54336210/251186081-3aa3261c-d14d-4ae1-a1ef-136f005d8705.png)
