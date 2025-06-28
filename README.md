@@ -23,4 +23,9 @@ This script is a wifi password Grabber that fetched the wifi-profiles of every w
 Replace `"ENTER YOUR DISCORD WEBHOOK URL">` with your own [webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 
 # Result
+
+## VBScript
    ![wifigif](https://github.com/user-attachments/assets/1b47aa59-1f1b-412a-9603-7d5d70882593)
+
+## Macros   
+   ![InShot_20250628_224435981-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ade68340-12a3-470a-be5a-3ed46883a6f6)
