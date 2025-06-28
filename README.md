@@ -4,7 +4,7 @@
 
 This script is a wifi password Grabber that fetched the wifi-profiles of every wifi passwords stored on a Windows 10/11 system and sends it to a [discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 
-## This VBScript :
+## VBScript Features :
 
 - Creates a Shell object to run Windows commands.
 - Displays a fake pop-up to make the user think it's a harmless script.
@@ -16,12 +16,8 @@ This script is a wifi password Grabber that fetched the wifi-profiles of every w
 
 # Files
 ### Powershell scripts
-- `Wifi-Stealer-Discord.ps1` - The main script, commented for readability
-- `Wifi-Stealer-Discord_minified.ps1` - The minified version of the script (no comments, one line)
-### Duckyscript files
-- `Wifi-Stealer-Discord.txt` - A duckyscript version of the script, commented for readability
-- `Wifi-Stealer-Discord_(Any-keyboard-layout).txt` - A duckyscript version of the script for any keyboard layout, commented for readability (for Flipper Zero)
-- `Wifi-Stealer-Discord_(One_line).txt` - A duckyscript version of the script using the minified version of the script (for Flipper Zero)
+- `Wi-fi_grabber.vbs` - The main script.
+- `Wifi.docm` - The macros version.
 
 # Usage
 Replace `https://discord.com/api/webhooks/<channel_id>/<webhook_id>` with your own [webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
