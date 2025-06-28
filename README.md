@@ -1,1 +1,1 @@
-# Wi-Fi_Password_Grabber_vbs_Discord
+# Wi-Fi_Password_Grabber_vbs_C2
